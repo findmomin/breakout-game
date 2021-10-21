@@ -31,10 +31,13 @@ h2 {
 
 p {
   font-size: 1.6rem;
+  margin-bottom: 1rem;
 }
 
 canvas {
   background: #f0f0f0;
+  width: 80rem;
+  height: 60rem;
   display: block;
   border-radius: 5px;
 }
