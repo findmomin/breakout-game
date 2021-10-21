@@ -1,0 +1,14 @@
+{
+  "name": "breakout-game",
+  "version": "1.0.0",
+  "description": "Game where you control a paddle with the arrow keys to bounce a ball up to break bricks. This app uses the HTML5 canvas element and API",
+  "main": "app.js",
+  "scripts": {
+    "start": "tsc --watch app.ts"
+  },
+  "author": "Abdul Momin",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.4.4"
+  }
+}
